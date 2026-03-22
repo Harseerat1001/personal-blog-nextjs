@@ -71,10 +71,9 @@ layout: PostLayout
 
 Start writing in **Markdown** with **JSX** components!
 
-🌐 Live Website
-👉 https://adityawalia-blog.vercel.app
+
 
 📸 Preview
 Home	Blog Post
 
-Built by Aditya Walia and Harmanjot Kaur
+
